@@ -1,7 +1,6 @@
 from fastapi import FastAPI
 import random
 
-print(random.randint(0,9))
 
 app = FastAPI()
 
